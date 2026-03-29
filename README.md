@@ -13,7 +13,6 @@ What it does:
 - writes an HTML report plus Excel (`.xlsx`) and JSON exports
 
 What it does not do:
-- it does not import or depend on `iLEAPP`
 - it does not modify evidence files
 
 ## Installation
