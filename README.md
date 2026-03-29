@@ -1,3 +1,5 @@
+<img width="622" height="367" alt="image" src="https://github.com/user-attachments/assets/b31831b7-d93b-4344-801c-79298c8b70c3" />
+
 # SpecTacular
 
 SpecTacular is a small standalone parser for Meta smart glasses artifacts.
