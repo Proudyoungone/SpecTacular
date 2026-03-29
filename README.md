@@ -12,9 +12,6 @@ What it does:
 - finds likely related photos and videos
 - writes an HTML report plus Excel (`.xlsx`) and JSON exports
 
-What it does not do:
-- it does not modify evidence files
-
 ## Installation
 
 SpecTacular is mostly standard-library Python code.
