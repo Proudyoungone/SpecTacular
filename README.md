@@ -130,7 +130,7 @@ The user-facing exports now explain why a media item was flagged instead of expo
 This first version is meant to give you a clean foundation you can extend under your own project name.
 
 ### Thank you
-===================================================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A special thanks goes to Alexis Brignoni for allowing me to build from the LEAPPs codebase. If you’d like to see what was migrated from the LEAPPs, you can find this information in the parser_inventory.md file within the repository.
 
 Another big thanks goes out to Phil Harvey for his open-source software ExifTool 
