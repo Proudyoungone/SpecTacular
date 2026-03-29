@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Generic Smart Glasses Illustration</title>
+  <desc id="desc">A stylized illustration of generic smart glasses with no logos or branding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eef7ff" />
+      <stop offset="100%" stop-color="#d7ecff" />
+    </linearGradient>
+    <linearGradient id="frame" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#173b66" />
+      <stop offset="100%" stop-color="#0d2747" />
+    </linearGradient>
+    <linearGradient id="lens" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4dd2ff" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0a2340" flood-opacity="0.22" />
+    </filter>
+  </defs>
+  <rect width="960" height="720" rx="56" fill="url(#bg)" />
+  <g filter="url(#shadow)">
+    <path d="M118 340c32-50 80-79 146-87l130-14c42-5 84-5 126 0l130 14c66 8 114 37 146 87l18 29c10 15 8 35-5 48-13 13-33 15-48 5l-42-27c-17-11-37-17-57-17H633c-21 0-40 8-55 22l-29 27c-38 35-100 35-138 0l-29-27c-15-14-34-22-55-22H235c-20 0-40 6-57 17l-42 27c-15 10-35 8-48-5-13-13-15-33-5-48l18-29Z" fill="url(#frame)" />
+    <rect x="218" y="295" width="194" height="152" rx="54" fill="#102d50" stroke="#7ec8ff" stroke-width="14" />
+    <rect x="548" y="295" width="194" height="152" rx="54" fill="#102d50" stroke="#7ec8ff" stroke-width="14" />
+    <rect x="240" y="314" width="150" height="114" rx="40" fill="url(#lens)" opacity="0.95" />
+    <rect x="570" y="314" width="150" height="114" rx="40" fill="url(#lens)" opacity="0.95" />
+    <rect x="404" y="337" width="152" height="24" rx="12" fill="#16365f" />
+    <path d="M158 325c-39 8-67 25-91 58" fill="none" stroke="#173b66" stroke-width="18" stroke-linecap="round" />
+    <path d="M802 325c39 8 67 25 91 58" fill="none" stroke="#173b66" stroke-width="18" stroke-linecap="round" />
+    <circle cx="311" cy="309" r="13" fill="#c7f1ff" opacity="0.9" />
+    <circle cx="641" cy="309" r="13" fill="#c7f1ff" opacity="0.9" />
+    <path d="M287 337c20-18 54-24 83-13" fill="none" stroke="#dff7ff" stroke-width="12" stroke-linecap="round" opacity="0.7" />
+    <path d="M617 337c20-18 54-24 83-13" fill="none" stroke="#dff7ff" stroke-width="12" stroke-linecap="round" opacity="0.7" />
+  </g>
+  <text x="480" y="618" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f5da8">
+    Generic Smart Glasses
+  </text>
+  <text x="480" y="656" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#476b91">
+    Representational illustration with no branding
+  </text>
+</svg>

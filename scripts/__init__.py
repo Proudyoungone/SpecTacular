@@ -1,0 +1,1 @@
+"""SpecTacular script package."""

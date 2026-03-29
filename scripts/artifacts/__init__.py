@@ -1,0 +1,1 @@
+"""Artifact extractors for SpecTacular."""
